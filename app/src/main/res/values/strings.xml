@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripction">Descripción</string>
+    <string name="btn">Siguiente</string>
+
+    <string name="confirmacion">Confirmar datos</string>
+    <string name="c_confirmar">Nombre_confirmado</string>
+    <string name="boton2">Editar datos</string>
+
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+    <string name="paño">año</string>
+    <string name="pmes">mes</string>
+    <string name="pdia">dia</string>
+
+</resources>
