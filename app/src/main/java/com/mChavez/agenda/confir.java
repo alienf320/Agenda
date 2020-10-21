@@ -30,11 +30,11 @@ public class confir extends AppCompatActivity {
         TextView cdescripcion = (TextView) findViewById(R.id.c_descripcion);
         Button boton2 = (Button) findViewById(R.id.boton2);
 
-        cnombre.setText(nombre);
+        cnombre.setText("Nombre: " + nombre);
         cfecha.setText("Fecha de nacimiento: " + dia + "/" + mes + "/" + año);
         ctelefono.setText(("Tel: ") + telefono);
-        cemail.setText("Email: " + cemail);
-        cdescripcion.setText("Descripcion: " + cdescripcion);
+        cemail.setText("Email: " + email);
+        cdescripcion.setText("Descripcion: " + descripcion);
 
         boton2.setOnClickListener(new View.OnClickListener() {
             @Override
